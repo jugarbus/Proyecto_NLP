@@ -1,0 +1,13 @@
+numpy
+pandas
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+langdetect
+nltk
+scikit-learn
+kagglehub
+matplotlib
+seaborn
+wordcloud
