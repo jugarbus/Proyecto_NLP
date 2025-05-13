@@ -11,3 +11,4 @@ kagglehub
 matplotlib
 seaborn
 wordcloud
+spacy
