@@ -1,5 +1,3 @@
-Para instalar las dependencias ejecutar "pip install -r requirements.txt" en la terminal (anaconda o VS) o en una celda del código de "proyecto_NLP.ipynb"
-
 ## Descripción de los archivos
 
 ### fine_tunning_collab.ipynb
@@ -13,3 +11,5 @@ Este notebook es el archivo principal del proyecto, donde se desarrolla el pipel
 Incluye la preparación de datos, extracción de características, entrenamiento y evaluación de modelos, entre otros procesos fundamentales para el desarrollo integral del proyecto.
 
 ![Diagrama de flujo](diagrama_flujo.png)
+
+Para instalar las dependencias ejecutar "pip install -r requirements.txt" en la terminal (anaconda o VS) o en una celda del código de "proyecto_NLP.ipynb"
