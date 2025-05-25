@@ -12,4 +12,10 @@ Incluye la preparación de datos, extracción de características, entrenamiento
 
 ![Diagrama de flujo](diagrama_flujo.png)
 
-Para instalar las dependencias ejecutar "pip install -r requirements.txt" en la terminal (anaconda o VS) o en una celda del código de "proyecto_NLP.ipynb"
+## Instalación de dependencias
+
+Para instalar las dependencias necesarias para ejecutar el proyecto, puedes ejecutar el siguiente comando en la terminal (ya sea en Anaconda Prompt, VS Code o cualquier otra terminal):
+
+```bash
+pip install -r requirements.txt
+
