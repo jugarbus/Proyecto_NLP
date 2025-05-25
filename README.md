@@ -1,3 +1,11 @@
+## Instalación de dependencias
+
+Para instalar las dependencias necesarias para ejecutar el proyecto, puedes ejecutar el siguiente comando en la terminal (ya sea en Anaconda Prompt, VS Code o cualquier otra terminal):
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Descripción de los archivos
 
 ### fine_tunning_collab.ipynb
@@ -12,10 +20,5 @@ Incluye la preparación de datos, extracción de características, entrenamiento
 
 ![Diagrama de flujo](diagrama_flujo.png)
 
-## Instalación de dependencias
 
-Para instalar las dependencias necesarias para ejecutar el proyecto, puedes ejecutar el siguiente comando en la terminal (ya sea en Anaconda Prompt, VS Code o cualquier otra terminal):
-
-```bash
-pip install -r requirements.txt
 
