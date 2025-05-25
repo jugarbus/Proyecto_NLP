@@ -52,3 +52,4 @@ graph TD
     M --> O[Clasificación de sentimientos]
     N --> O
 ```
+![Diagrama de flujo](diagrama_flujo.png)
