@@ -3,7 +3,7 @@ Para instalar las dependencias ejecutar "pip install -r requirements.txt" en la 
 ```mermaid
 graph TD
     A[Análisis de reseñas en películas] --> B[Web Scrapping]
-    B --> C[Película, Usuario, Fecha, Puntuación, Reseña]
+    B --> C((Película, Usuario, Fecha, Puntuación, Reseña))
     B --> D[Preprocesamiento]
     D --> E[Análisis exploratorio]
     D --> F[Extracción de características]
@@ -28,3 +28,27 @@ mindmap
         Modelos(Modelos de clasificación)
           NoPreentrenados(No preentrenados)
           Preentrenados(Preentrenados)
+```
+```mermaid
+graph TD
+    A[Análisis de reseñas en películas] --> B(Objetivo)
+    B --> C[Recomendador de películas]
+    B --> D[Análisis de sentimientos]
+    
+    C --> E[Web Scrapping]
+    D --> E
+    
+    E --> F[Datos: Película, Usuario, Fecha, Puntuación, Reseña]
+    E --> G[Kaggle Dataset]
+    E --> H[Recomendación de películas a usuario]
+    
+    E --> I[Preprocesamiento]
+    I --> J[Análisis exploratorio]
+    I --> K[Extracción de características]
+    
+    K --> L[Modelos de clasificación]
+    L --> M[No preentrenados]
+    L --> N[Preentrenados]
+    M --> O[Clasificación de sentimientos]
+    N --> O
+```
