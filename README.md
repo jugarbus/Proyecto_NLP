@@ -5,6 +5,7 @@ Para instalar las dependencias necesarias para ejecutar el proyecto, puedes ejec
 ```bash
 pip install -r requirements.txt
 ```
+Para la instalación del modelo preentreando de embedding Glove (dimensión 50) se puede descargar del siguiente enlace: https://drive.google.com/file/d/1KulVzWbXlGzUs1p8psUPtouqDrtQ1st9/view?usp=sharing
 
 # Descripción de los archivos
 
