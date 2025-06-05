@@ -1,4 +1,4 @@
-# Análisis de sentimientos en reseñas y recomendador de películas
+# Análisis de sentimientos en reseñas y recomendador de películas a usuarios
 
 # Instalación de dependencias
 
